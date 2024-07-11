@@ -1,0 +1,4 @@
+repository "Pong@CosmicDust@cloud"
+  path "/"
+    br "/main"
+    co "/main"
